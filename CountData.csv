@@ -1,0 +1,433 @@
+FireTrt,EcoGrp,SizeClass,PlotSize,Count,Plot,Site
+Unburnt,Eucalypt,<0.5m,360,32,1,Imalu
+Unburnt,Eucalypt,0.5-1.5m,360,14,1,Imalu
+Unburnt,Eucalypt,>1.5m,720,47,1,Imalu
+Unburnt,Eucalypt,5-10DBH,1800,84,1,Imalu
+Unburnt,Eucalypt,10-20DBH,1800,46,1,Imalu
+Unburnt,Eucalypt,>20DBH,1800,13,1,Imalu
+Unburnt,Acacia,<0.5m,360,8,1,Imalu
+Unburnt,Acacia,0.5-1.5m,360,28,1,Imalu
+Unburnt,Acacia,>1.5m,720,47,1,Imalu
+Unburnt,Acacia,5-10DBH,1800,12,1,Imalu
+Unburnt,Acacia,10-20DBH,1800,1,1,Imalu
+Unburnt,Acacia,>20DBH,1800,0,1,Imalu
+Unburnt,Pantropical,<0.5m,360,65,1,Imalu
+Unburnt,Pantropical,0.5-1.5m,360,7,1,Imalu
+Unburnt,Pantropical,>1.5m,720,35,1,Imalu
+Unburnt,Pantropical,5-10DBH,1800,61,1,Imalu
+Unburnt,Pantropical,10-20DBH,1800,3,1,Imalu
+Unburnt,Pantropical,>20DBH,1800,0,1,Imalu
+Unburnt,Proteaceae,<0.5m,360,17,1,Imalu
+Unburnt,Proteaceae,0.5-1.5m,360,3,1,Imalu
+Unburnt,Proteaceae,>1.5m,720,41,1,Imalu
+Unburnt,Proteaceae,5-10DBH,1800,11,1,Imalu
+Unburnt,Proteaceae,10-20DBH,1800,0,1,Imalu
+Unburnt,Proteaceae,>20DBH,1800,0,1,Imalu
+Unburnt,Eucalypt,<0.5m,360,7,2,Shark Bay
+Unburnt,Eucalypt,0.5-1.5m,360,7,2,Shark Bay
+Unburnt,Eucalypt,>1.5m,720,17,2,Shark Bay
+Unburnt,Eucalypt,5-10DBH,1800,80,2,Shark Bay
+Unburnt,Eucalypt,10-20DBH,1800,32,2,Shark Bay
+Unburnt,Eucalypt,>20DBH,1800,14,2,Shark Bay
+Unburnt,Acacia,<0.5m,360,7,2,Shark Bay
+Unburnt,Acacia,0.5-1.5m,360,4,2,Shark Bay
+Unburnt,Acacia,>1.5m,720,30,2,Shark Bay
+Unburnt,Acacia,5-10DBH,1800,32,2,Shark Bay
+Unburnt,Acacia,10-20DBH,1800,2,2,Shark Bay
+Unburnt,Acacia,>20DBH,1800,0,2,Shark Bay
+Unburnt,Pantropical,<0.5m,360,14,2,Shark Bay
+Unburnt,Pantropical,0.5-1.5m,360,16,2,Shark Bay
+Unburnt,Pantropical,>1.5m,720,237,2,Shark Bay
+Unburnt,Pantropical,5-10DBH,1800,56,2,Shark Bay
+Unburnt,Pantropical,10-20DBH,1800,0,2,Shark Bay
+Unburnt,Pantropical,>20DBH,1800,0,2,Shark Bay
+Unburnt,Proteaceae,<0.5m,360,0,2,Shark Bay
+Unburnt,Proteaceae,0.5-1.5m,360,0,2,Shark Bay
+Unburnt,Proteaceae,>1.5m,720,6,2,Shark Bay
+Unburnt,Proteaceae,5-10DBH,1800,3,2,Shark Bay
+Unburnt,Proteaceae,10-20DBH,1800,0,2,Shark Bay
+Unburnt,Proteaceae,>20DBH,1800,0,2,Shark Bay
+Unburnt,Eucalypt,<0.5m,360,14,3,Shark Bay
+Unburnt,Eucalypt,0.5-1.5m,360,25,3,Shark Bay
+Unburnt,Eucalypt,>1.5m,720,51,3,Shark Bay
+Unburnt,Eucalypt,5-10DBH,1800,79,3,Shark Bay
+Unburnt,Eucalypt,10-20DBH,1800,34,3,Shark Bay
+Unburnt,Eucalypt,>20DBH,1800,14,3,Shark Bay
+Unburnt,Acacia,<0.5m,360,6,3,Shark Bay
+Unburnt,Acacia,0.5-1.5m,360,13,3,Shark Bay
+Unburnt,Acacia,>1.5m,720,32,3,Shark Bay
+Unburnt,Acacia,5-10DBH,1800,15,3,Shark Bay
+Unburnt,Acacia,10-20DBH,1800,1,3,Shark Bay
+Unburnt,Acacia,>20DBH,1800,0,3,Shark Bay
+Unburnt,Pantropical,<0.5m,360,16,3,Shark Bay
+Unburnt,Pantropical,0.5-1.5m,360,26,3,Shark Bay
+Unburnt,Pantropical,>1.5m,720,104,3,Shark Bay
+Unburnt,Pantropical,5-10DBH,1800,73,3,Shark Bay
+Unburnt,Pantropical,10-20DBH,1800,0,3,Shark Bay
+Unburnt,Pantropical,>20DBH,1800,0,3,Shark Bay
+Unburnt,Proteaceae,<0.5m,360,0,3,Shark Bay
+Unburnt,Proteaceae,0.5-1.5m,360,1,3,Shark Bay
+Unburnt,Proteaceae,>1.5m,720,6,3,Shark Bay
+Unburnt,Proteaceae,5-10DBH,1800,1,3,Shark Bay
+Unburnt,Proteaceae,10-20DBH,1800,0,3,Shark Bay
+Unburnt,Proteaceae,>20DBH,1800,0,3,Shark Bay
+Unburnt,Eucalypt,<0.5m,360,33,4,Shark Bay
+Unburnt,Eucalypt,0.5-1.5m,360,54,4,Shark Bay
+Unburnt,Eucalypt,>1.5m,720,31,4,Shark Bay
+Unburnt,Eucalypt,5-10DBH,1800,82,4,Shark Bay
+Unburnt,Eucalypt,10-20DBH,1800,36,4,Shark Bay
+Unburnt,Eucalypt,>20DBH,1800,12,4,Shark Bay
+Unburnt,Acacia,<0.5m,360,3,4,Shark Bay
+Unburnt,Acacia,0.5-1.5m,360,12,4,Shark Bay
+Unburnt,Acacia,>1.5m,720,61,4,Shark Bay
+Unburnt,Acacia,5-10DBH,1800,75,4,Shark Bay
+Unburnt,Acacia,10-20DBH,1800,1,4,Shark Bay
+Unburnt,Acacia,>20DBH,1800,0,4,Shark Bay
+Unburnt,Pantropical,<0.5m,360,24,4,Shark Bay
+Unburnt,Pantropical,0.5-1.5m,360,19,4,Shark Bay
+Unburnt,Pantropical,>1.5m,720,65,4,Shark Bay
+Unburnt,Pantropical,5-10DBH,1800,89,4,Shark Bay
+Unburnt,Pantropical,10-20DBH,1800,2,4,Shark Bay
+Unburnt,Pantropical,>20DBH,1800,2,4,Shark Bay
+Unburnt,Proteaceae,<0.5m,360,0,4,Shark Bay
+Unburnt,Proteaceae,0.5-1.5m,360,1,4,Shark Bay
+Unburnt,Proteaceae,>1.5m,720,7,4,Shark Bay
+Unburnt,Proteaceae,5-10DBH,1800,3,4,Shark Bay
+Unburnt,Proteaceae,10-20DBH,1800,1,4,Shark Bay
+Unburnt,Proteaceae,>20DBH,1800,0,4,Shark Bay
+Unburnt,Eucalypt,<0.5m,360,45,5,Taracumbi
+Unburnt,Eucalypt,0.5-1.5m,360,26,5,Taracumbi
+Unburnt,Eucalypt,>1.5m,720,12,5,Taracumbi
+Unburnt,Eucalypt,5-10DBH,1800,17,5,Taracumbi
+Unburnt,Eucalypt,10-20DBH,1800,9,5,Taracumbi
+Unburnt,Eucalypt,>20DBH,1800,20,5,Taracumbi
+Unburnt,Acacia,<0.5m,360,17,5,Taracumbi
+Unburnt,Acacia,0.5-1.5m,360,20,5,Taracumbi
+Unburnt,Acacia,>1.5m,720,46,5,Taracumbi
+Unburnt,Acacia,5-10DBH,1800,36,5,Taracumbi
+Unburnt,Acacia,10-20DBH,1800,1,5,Taracumbi
+Unburnt,Acacia,>20DBH,1800,0,5,Taracumbi
+Unburnt,Pantropical,<0.5m,360,27,5,Taracumbi
+Unburnt,Pantropical,0.5-1.5m,360,23,5,Taracumbi
+Unburnt,Pantropical,>1.5m,720,94,5,Taracumbi
+Unburnt,Pantropical,5-10DBH,1800,13,5,Taracumbi
+Unburnt,Pantropical,10-20DBH,1800,1,5,Taracumbi
+Unburnt,Pantropical,>20DBH,1800,0,5,Taracumbi
+Unburnt,Proteaceae,<0.5m,360,8,5,Taracumbi
+Unburnt,Proteaceae,0.5-1.5m,360,2,5,Taracumbi
+Unburnt,Proteaceae,>1.5m,720,30,5,Taracumbi
+Unburnt,Proteaceae,5-10DBH,1800,13,5,Taracumbi
+Unburnt,Proteaceae,10-20DBH,1800,0,5,Taracumbi
+Unburnt,Proteaceae,>20DBH,1800,0,5,Taracumbi
+Unburnt,Eucalypt,<0.5m,360,24,6,Pikataramoor
+Unburnt,Eucalypt,0.5-1.5m,360,15,6,Pikataramoor
+Unburnt,Eucalypt,>1.5m,720,18,6,Pikataramoor
+Unburnt,Eucalypt,5-10DBH,1800,5,6,Pikataramoor
+Unburnt,Eucalypt,10-20DBH,1800,22,6,Pikataramoor
+Unburnt,Eucalypt,>20DBH,1800,22,6,Pikataramoor
+Unburnt,Acacia,<0.5m,360,7,6,Pikataramoor
+Unburnt,Acacia,0.5-1.5m,360,9,6,Pikataramoor
+Unburnt,Acacia,>1.5m,720,15,6,Pikataramoor
+Unburnt,Acacia,5-10DBH,1800,2,6,Pikataramoor
+Unburnt,Acacia,10-20DBH,1800,2,6,Pikataramoor
+Unburnt,Acacia,>20DBH,1800,0,6,Pikataramoor
+Unburnt,Pantropical,<0.5m,360,22,6,Pikataramoor
+Unburnt,Pantropical,0.5-1.5m,360,41,6,Pikataramoor
+Unburnt,Pantropical,>1.5m,720,9,6,Pikataramoor
+Unburnt,Pantropical,5-10DBH,1800,4,6,Pikataramoor
+Unburnt,Pantropical,10-20DBH,1800,0,6,Pikataramoor
+Unburnt,Pantropical,>20DBH,1800,3,6,Pikataramoor
+Unburnt,Proteaceae,<0.5m,360,5,6,Pikataramoor
+Unburnt,Proteaceae,0.5-1.5m,360,3,6,Pikataramoor
+Unburnt,Proteaceae,>1.5m,720,8,6,Pikataramoor
+Unburnt,Proteaceae,5-10DBH,1800,3,6,Pikataramoor
+Unburnt,Proteaceae,10-20DBH,1800,0,6,Pikataramoor
+Unburnt,Proteaceae,>20DBH,1800,0,6,Pikataramoor
+Annual,Eucalypt,<0.5m,360,47,7,Imalu
+Annual,Eucalypt,0.5-1.5m,360,55,7,Imalu
+Annual,Eucalypt,>1.5m,720,31,7,Imalu
+Annual,Eucalypt,5-10DBH,1800,61,7,Imalu
+Annual,Eucalypt,10-20DBH,1800,45,7,Imalu
+Annual,Eucalypt,>20DBH,1800,16,7,Imalu
+Annual,Acacia,<0.5m,360,5,7,Imalu
+Annual,Acacia,0.5-1.5m,360,28,7,Imalu
+Annual,Acacia,>1.5m,720,25,7,Imalu
+Annual,Acacia,5-10DBH,1800,1,7,Imalu
+Annual,Acacia,10-20DBH,1800,1,7,Imalu
+Annual,Acacia,>20DBH,1800,0,7,Imalu
+Annual,Pantropical,<0.5m,360,8,7,Imalu
+Annual,Pantropical,0.5-1.5m,360,16,7,Imalu
+Annual,Pantropical,>1.5m,720,30,7,Imalu
+Annual,Pantropical,5-10DBH,1800,11,7,Imalu
+Annual,Pantropical,10-20DBH,1800,0,7,Imalu
+Annual,Pantropical,>20DBH,1800,0,7,Imalu
+Annual,Proteaceae,<0.5m,360,1,7,Imalu
+Annual,Proteaceae,0.5-1.5m,360,1,7,Imalu
+Annual,Proteaceae,>1.5m,720,0,7,Imalu
+Annual,Proteaceae,5-10DBH,1800,2,7,Imalu
+Annual,Proteaceae,10-20DBH,1800,0,7,Imalu
+Annual,Proteaceae,>20DBH,1800,0,7,Imalu
+Annual,Eucalypt,<0.5m,360,14,8,Shark Bay
+Annual,Eucalypt,0.5-1.5m,360,31,8,Shark Bay
+Annual,Eucalypt,>1.5m,720,14,8,Shark Bay
+Annual,Eucalypt,5-10DBH,1800,42,8,Shark Bay
+Annual,Eucalypt,10-20DBH,1800,22,8,Shark Bay
+Annual,Eucalypt,>20DBH,1800,8,8,Shark Bay
+Annual,Acacia,<0.5m,360,9,8,Shark Bay
+Annual,Acacia,0.5-1.5m,360,23,8,Shark Bay
+Annual,Acacia,>1.5m,720,9,8,Shark Bay
+Annual,Acacia,5-10DBH,1800,13,8,Shark Bay
+Annual,Acacia,10-20DBH,1800,7,8,Shark Bay
+Annual,Acacia,>20DBH,1800,0,8,Shark Bay
+Annual,Pantropical,<0.5m,360,65,8,Shark Bay
+Annual,Pantropical,0.5-1.5m,360,46,8,Shark Bay
+Annual,Pantropical,>1.5m,720,51,8,Shark Bay
+Annual,Pantropical,5-10DBH,1800,77,8,Shark Bay
+Annual,Pantropical,10-20DBH,1800,9,8,Shark Bay
+Annual,Pantropical,>20DBH,1800,1,8,Shark Bay
+Annual,Proteaceae,<0.5m,360,6,8,Shark Bay
+Annual,Proteaceae,0.5-1.5m,360,5,8,Shark Bay
+Annual,Proteaceae,>1.5m,720,3,8,Shark Bay
+Annual,Proteaceae,5-10DBH,1800,3,8,Shark Bay
+Annual,Proteaceae,10-20DBH,1800,0,8,Shark Bay
+Annual,Proteaceae,>20DBH,1800,0,8,Shark Bay
+Annual,Eucalypt,<0.5m,360,15,9,Shark Bay
+Annual,Eucalypt,0.5-1.5m,360,17,9,Shark Bay
+Annual,Eucalypt,>1.5m,720,11,9,Shark Bay
+Annual,Eucalypt,5-10DBH,1800,29,9,Shark Bay
+Annual,Eucalypt,10-20DBH,1800,8,9,Shark Bay
+Annual,Eucalypt,>20DBH,1800,14,9,Shark Bay
+Annual,Acacia,<0.5m,360,4,9,Shark Bay
+Annual,Acacia,0.5-1.5m,360,30,9,Shark Bay
+Annual,Acacia,>1.5m,720,8,9,Shark Bay
+Annual,Acacia,5-10DBH,1800,16,9,Shark Bay
+Annual,Acacia,10-20DBH,1800,7,9,Shark Bay
+Annual,Acacia,>20DBH,1800,0,9,Shark Bay
+Annual,Pantropical,<0.5m,360,44,9,Shark Bay
+Annual,Pantropical,0.5-1.5m,360,37,9,Shark Bay
+Annual,Pantropical,>1.5m,720,41,9,Shark Bay
+Annual,Pantropical,5-10DBH,1800,68,9,Shark Bay
+Annual,Pantropical,10-20DBH,1800,10,9,Shark Bay
+Annual,Pantropical,>20DBH,1800,1,9,Shark Bay
+Annual,Proteaceae,<0.5m,360,2,9,Shark Bay
+Annual,Proteaceae,0.5-1.5m,360,1,9,Shark Bay
+Annual,Proteaceae,>1.5m,720,4,9,Shark Bay
+Annual,Proteaceae,5-10DBH,1800,0,9,Shark Bay
+Annual,Proteaceae,10-20DBH,1800,1,9,Shark Bay
+Annual,Proteaceae,>20DBH,1800,0,9,Shark Bay
+Annual,Eucalypt,<0.5m,360,7,10,Shark Bay
+Annual,Eucalypt,0.5-1.5m,360,8,10,Shark Bay
+Annual,Eucalypt,>1.5m,720,10,10,Shark Bay
+Annual,Eucalypt,5-10DBH,1800,39,10,Shark Bay
+Annual,Eucalypt,10-20DBH,1800,27,10,Shark Bay
+Annual,Eucalypt,>20DBH,1800,7,10,Shark Bay
+Annual,Acacia,<0.5m,360,3,10,Shark Bay
+Annual,Acacia,0.5-1.5m,360,20,10,Shark Bay
+Annual,Acacia,>1.5m,720,20,10,Shark Bay
+Annual,Acacia,5-10DBH,1800,16,10,Shark Bay
+Annual,Acacia,10-20DBH,1800,3,10,Shark Bay
+Annual,Acacia,>20DBH,1800,0,10,Shark Bay
+Annual,Pantropical,<0.5m,360,19,10,Shark Bay
+Annual,Pantropical,0.5-1.5m,360,30,10,Shark Bay
+Annual,Pantropical,>1.5m,720,46,10,Shark Bay
+Annual,Pantropical,5-10DBH,1800,69,10,Shark Bay
+Annual,Pantropical,10-20DBH,1800,11,10,Shark Bay
+Annual,Pantropical,>20DBH,1800,2,10,Shark Bay
+Annual,Proteaceae,<0.5m,360,8,10,Shark Bay
+Annual,Proteaceae,0.5-1.5m,360,2,10,Shark Bay
+Annual,Proteaceae,>1.5m,720,7,10,Shark Bay
+Annual,Proteaceae,5-10DBH,1800,3,10,Shark Bay
+Annual,Proteaceae,10-20DBH,1800,1,10,Shark Bay
+Annual,Proteaceae,>20DBH,1800,0,10,Shark Bay
+Annual,Eucalypt,<0.5m,360,34,11,Taracumbi
+Annual,Eucalypt,0.5-1.5m,360,51,11,Taracumbi
+Annual,Eucalypt,>1.5m,720,16,11,Taracumbi
+Annual,Eucalypt,5-10DBH,1800,1,11,Taracumbi
+Annual,Eucalypt,10-20DBH,1800,5,11,Taracumbi
+Annual,Eucalypt,>20DBH,1800,19,11,Taracumbi
+Annual,Acacia,<0.5m,360,14,11,Taracumbi
+Annual,Acacia,0.5-1.5m,360,46,11,Taracumbi
+Annual,Acacia,>1.5m,720,6,11,Taracumbi
+Annual,Acacia,5-10DBH,1800,0,11,Taracumbi
+Annual,Acacia,10-20DBH,1800,0,11,Taracumbi
+Annual,Acacia,>20DBH,1800,0,11,Taracumbi
+Annual,Pantropical,<0.5m,360,40,11,Taracumbi
+Annual,Pantropical,0.5-1.5m,360,28,11,Taracumbi
+Annual,Pantropical,>1.5m,720,13,11,Taracumbi
+Annual,Pantropical,5-10DBH,1800,0,11,Taracumbi
+Annual,Pantropical,10-20DBH,1800,2,11,Taracumbi
+Annual,Pantropical,>20DBH,1800,5,11,Taracumbi
+Annual,Proteaceae,<0.5m,360,23,11,Taracumbi
+Annual,Proteaceae,0.5-1.5m,360,10,11,Taracumbi
+Annual,Proteaceae,>1.5m,720,2,11,Taracumbi
+Annual,Proteaceae,5-10DBH,1800,7,11,Taracumbi
+Annual,Proteaceae,10-20DBH,1800,0,11,Taracumbi
+Annual,Proteaceae,>20DBH,1800,0,11,Taracumbi
+Annual,Eucalypt,<0.5m,360,48,12,Pikataramoor
+Annual,Eucalypt,0.5-1.5m,360,18,12,Pikataramoor
+Annual,Eucalypt,>1.5m,720,8,12,Pikataramoor
+Annual,Eucalypt,5-10DBH,1800,4,12,Pikataramoor
+Annual,Eucalypt,10-20DBH,1800,14,12,Pikataramoor
+Annual,Eucalypt,>20DBH,1800,31,12,Pikataramoor
+Annual,Acacia,<0.5m,360,10,12,Pikataramoor
+Annual,Acacia,0.5-1.5m,360,18,12,Pikataramoor
+Annual,Acacia,>1.5m,720,35,12,Pikataramoor
+Annual,Acacia,5-10DBH,1800,0,12,Pikataramoor
+Annual,Acacia,10-20DBH,1800,0,12,Pikataramoor
+Annual,Acacia,>20DBH,1800,0,12,Pikataramoor
+Annual,Pantropical,<0.5m,360,25,12,Pikataramoor
+Annual,Pantropical,0.5-1.5m,360,8,12,Pikataramoor
+Annual,Pantropical,>1.5m,720,0,12,Pikataramoor
+Annual,Pantropical,5-10DBH,1800,0,12,Pikataramoor
+Annual,Pantropical,10-20DBH,1800,0,12,Pikataramoor
+Annual,Pantropical,>20DBH,1800,0,12,Pikataramoor
+Annual,Proteaceae,<0.5m,360,6,12,Pikataramoor
+Annual,Proteaceae,0.5-1.5m,360,0,12,Pikataramoor
+Annual,Proteaceae,>1.5m,720,7,12,Pikataramoor
+Annual,Proteaceae,5-10DBH,1800,0,12,Pikataramoor
+Annual,Proteaceae,10-20DBH,1800,0,12,Pikataramoor
+Annual,Proteaceae,>20DBH,1800,0,12,Pikataramoor
+Triennial,Eucalypt,<0.5m,360,33,13,Imalu
+Triennial,Eucalypt,0.5-1.5m,360,42,13,Imalu
+Triennial,Eucalypt,>1.5m,720,66,13,Imalu
+Triennial,Eucalypt,5-10DBH,1800,77,13,Imalu
+Triennial,Eucalypt,10-20DBH,1800,58,13,Imalu
+Triennial,Eucalypt,>20DBH,1800,12,13,Imalu
+Triennial,Acacia,<0.5m,360,17,13,Imalu
+Triennial,Acacia,0.5-1.5m,360,49,13,Imalu
+Triennial,Acacia,>1.5m,720,231,13,Imalu
+Triennial,Acacia,5-10DBH,1800,0,13,Imalu
+Triennial,Acacia,10-20DBH,1800,0,13,Imalu
+Triennial,Acacia,>20DBH,1800,0,13,Imalu
+Triennial,Pantropical,<0.5m,360,25,13,Imalu
+Triennial,Pantropical,0.5-1.5m,360,40,13,Imalu
+Triennial,Pantropical,>1.5m,720,65,13,Imalu
+Triennial,Pantropical,5-10DBH,1800,10,13,Imalu
+Triennial,Pantropical,10-20DBH,1800,2,13,Imalu
+Triennial,Pantropical,>20DBH,1800,0,13,Imalu
+Triennial,Proteaceae,<0.5m,360,5,13,Imalu
+Triennial,Proteaceae,0.5-1.5m,360,12,13,Imalu
+Triennial,Proteaceae,>1.5m,720,52,13,Imalu
+Triennial,Proteaceae,5-10DBH,1800,5,13,Imalu
+Triennial,Proteaceae,10-20DBH,1800,0,13,Imalu
+Triennial,Proteaceae,>20DBH,1800,0,13,Imalu
+Triennial,Eucalypt,<0.5m,360,3,14,Shark Bay
+Triennial,Eucalypt,0.5-1.5m,360,5,14,Shark Bay
+Triennial,Eucalypt,>1.5m,720,9,14,Shark Bay
+Triennial,Eucalypt,5-10DBH,1800,32,14,Shark Bay
+Triennial,Eucalypt,10-20DBH,1800,28,14,Shark Bay
+Triennial,Eucalypt,>20DBH,1800,12,14,Shark Bay
+Triennial,Acacia,<0.5m,360,13,14,Shark Bay
+Triennial,Acacia,0.5-1.5m,360,27,14,Shark Bay
+Triennial,Acacia,>1.5m,720,118,14,Shark Bay
+Triennial,Acacia,5-10DBH,1800,39,14,Shark Bay
+Triennial,Acacia,10-20DBH,1800,7,14,Shark Bay
+Triennial,Acacia,>20DBH,1800,0,14,Shark Bay
+Triennial,Pantropical,<0.5m,360,14,14,Shark Bay
+Triennial,Pantropical,0.5-1.5m,360,34,14,Shark Bay
+Triennial,Pantropical,>1.5m,720,70,14,Shark Bay
+Triennial,Pantropical,5-10DBH,1800,32,14,Shark Bay
+Triennial,Pantropical,10-20DBH,1800,4,14,Shark Bay
+Triennial,Pantropical,>20DBH,1800,0,14,Shark Bay
+Triennial,Proteaceae,<0.5m,360,0,14,Shark Bay
+Triennial,Proteaceae,0.5-1.5m,360,3,14,Shark Bay
+Triennial,Proteaceae,>1.5m,720,16,14,Shark Bay
+Triennial,Proteaceae,5-10DBH,1800,0,14,Shark Bay
+Triennial,Proteaceae,10-20DBH,1800,0,14,Shark Bay
+Triennial,Proteaceae,>20DBH,1800,0,14,Shark Bay
+Triennial,Eucalypt,<0.5m,360,8,15,Shark Bay
+Triennial,Eucalypt,0.5-1.5m,360,4,15,Shark Bay
+Triennial,Eucalypt,>1.5m,720,20,15,Shark Bay
+Triennial,Eucalypt,5-10DBH,1800,23,15,Shark Bay
+Triennial,Eucalypt,10-20DBH,1800,11,15,Shark Bay
+Triennial,Eucalypt,>20DBH,1800,5,15,Shark Bay
+Triennial,Acacia,<0.5m,360,9,15,Shark Bay
+Triennial,Acacia,0.5-1.5m,360,13,15,Shark Bay
+Triennial,Acacia,>1.5m,720,19,15,Shark Bay
+Triennial,Acacia,5-10DBH,1800,38,15,Shark Bay
+Triennial,Acacia,10-20DBH,1800,8,15,Shark Bay
+Triennial,Acacia,>20DBH,1800,0,15,Shark Bay
+Triennial,Pantropical,<0.5m,360,8,15,Shark Bay
+Triennial,Pantropical,0.5-1.5m,360,9,15,Shark Bay
+Triennial,Pantropical,>1.5m,720,93,15,Shark Bay
+Triennial,Pantropical,5-10DBH,1800,64,15,Shark Bay
+Triennial,Pantropical,10-20DBH,1800,3,15,Shark Bay
+Triennial,Pantropical,>20DBH,1800,2,15,Shark Bay
+Triennial,Proteaceae,<0.5m,360,4,15,Shark Bay
+Triennial,Proteaceae,0.5-1.5m,360,1,15,Shark Bay
+Triennial,Proteaceae,>1.5m,720,4,15,Shark Bay
+Triennial,Proteaceae,5-10DBH,1800,12,15,Shark Bay
+Triennial,Proteaceae,10-20DBH,1800,3,15,Shark Bay
+Triennial,Proteaceae,>20DBH,1800,0,15,Shark Bay
+Triennial,Eucalypt,<0.5m,360,10,16,Shark Bay
+Triennial,Eucalypt,0.5-1.5m,360,16,16,Shark Bay
+Triennial,Eucalypt,>1.5m,720,34,16,Shark Bay
+Triennial,Eucalypt,5-10DBH,1800,47,16,Shark Bay
+Triennial,Eucalypt,10-20DBH,1800,16,16,Shark Bay
+Triennial,Eucalypt,>20DBH,1800,16,16,Shark Bay
+Triennial,Acacia,<0.5m,360,11,16,Shark Bay
+Triennial,Acacia,0.5-1.5m,360,34,16,Shark Bay
+Triennial,Acacia,>1.5m,720,130,16,Shark Bay
+Triennial,Acacia,5-10DBH,1800,0,16,Shark Bay
+Triennial,Acacia,10-20DBH,1800,0,16,Shark Bay
+Triennial,Acacia,>20DBH,1800,0,16,Shark Bay
+Triennial,Pantropical,<0.5m,360,11,16,Shark Bay
+Triennial,Pantropical,0.5-1.5m,360,11,16,Shark Bay
+Triennial,Pantropical,>1.5m,720,92,16,Shark Bay
+Triennial,Pantropical,5-10DBH,1800,4,16,Shark Bay
+Triennial,Pantropical,10-20DBH,1800,0,16,Shark Bay
+Triennial,Pantropical,>20DBH,1800,0,16,Shark Bay
+Triennial,Proteaceae,<0.5m,360,0,16,Shark Bay
+Triennial,Proteaceae,0.5-1.5m,360,4,16,Shark Bay
+Triennial,Proteaceae,>1.5m,720,2,16,Shark Bay
+Triennial,Proteaceae,5-10DBH,1800,1,16,Shark Bay
+Triennial,Proteaceae,10-20DBH,1800,0,16,Shark Bay
+Triennial,Proteaceae,>20DBH,1800,0,16,Shark Bay
+Triennial,Eucalypt,<0.5m,360,22,17,Taracumbi
+Triennial,Eucalypt,0.5-1.5m,360,31,17,Taracumbi
+Triennial,Eucalypt,>1.5m,720,73,17,Taracumbi
+Triennial,Eucalypt,5-10DBH,1800,14,17,Taracumbi
+Triennial,Eucalypt,10-20DBH,1800,12,17,Taracumbi
+Triennial,Eucalypt,>20DBH,1800,20,17,Taracumbi
+Triennial,Acacia,<0.5m,360,14,17,Taracumbi
+Triennial,Acacia,0.5-1.5m,360,41,17,Taracumbi
+Triennial,Acacia,>1.5m,720,123,17,Taracumbi
+Triennial,Acacia,5-10DBH,1800,0,17,Taracumbi
+Triennial,Acacia,10-20DBH,1800,0,17,Taracumbi
+Triennial,Acacia,>20DBH,1800,0,17,Taracumbi
+Triennial,Pantropical,<0.5m,360,6,17,Taracumbi
+Triennial,Pantropical,0.5-1.5m,360,22,17,Taracumbi
+Triennial,Pantropical,>1.5m,720,82,17,Taracumbi
+Triennial,Pantropical,5-10DBH,1800,0,17,Taracumbi
+Triennial,Pantropical,10-20DBH,1800,0,17,Taracumbi
+Triennial,Pantropical,>20DBH,1800,1,17,Taracumbi
+Triennial,Proteaceae,<0.5m,360,2,17,Taracumbi
+Triennial,Proteaceae,0.5-1.5m,360,5,17,Taracumbi
+Triennial,Proteaceae,>1.5m,720,5,17,Taracumbi
+Triennial,Proteaceae,5-10DBH,1800,1,17,Taracumbi
+Triennial,Proteaceae,10-20DBH,1800,0,17,Taracumbi
+Triennial,Proteaceae,>20DBH,1800,0,17,Taracumbi
+Triennial,Eucalypt,<0.5m,360,36,18,Pikataramoor
+Triennial,Eucalypt,0.5-1.5m,360,17,18,Pikataramoor
+Triennial,Eucalypt,>1.5m,720,14,18,Pikataramoor
+Triennial,Eucalypt,5-10DBH,1800,7,18,Pikataramoor
+Triennial,Eucalypt,10-20DBH,1800,17,18,Pikataramoor
+Triennial,Eucalypt,>20DBH,1800,18,18,Pikataramoor
+Triennial,Acacia,<0.5m,360,30,18,Pikataramoor
+Triennial,Acacia,0.5-1.5m,360,39,18,Pikataramoor
+Triennial,Acacia,>1.5m,720,74,18,Pikataramoor
+Triennial,Acacia,5-10DBH,1800,0,18,Pikataramoor
+Triennial,Acacia,10-20DBH,1800,0,18,Pikataramoor
+Triennial,Acacia,>20DBH,1800,0,18,Pikataramoor
+Triennial,Pantropical,<0.5m,360,36,18,Pikataramoor
+Triennial,Pantropical,0.5-1.5m,360,17,18,Pikataramoor
+Triennial,Pantropical,>1.5m,720,19,18,Pikataramoor
+Triennial,Pantropical,5-10DBH,1800,3,18,Pikataramoor
+Triennial,Pantropical,10-20DBH,1800,0,18,Pikataramoor
+Triennial,Pantropical,>20DBH,1800,0,18,Pikataramoor
+Triennial,Proteaceae,<0.5m,360,7,18,Pikataramoor
+Triennial,Proteaceae,0.5-1.5m,360,4,18,Pikataramoor
+Triennial,Proteaceae,>1.5m,720,3,18,Pikataramoor
+Triennial,Proteaceae,5-10DBH,1800,0,18,Pikataramoor
+Triennial,Proteaceae,10-20DBH,1800,0,18,Pikataramoor
+Triennial,Proteaceae,>20DBH,1800,0,18,Pikataramoor
